@@ -9,7 +9,7 @@
       android:id="@+id/textView"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="Hello, Journaly!" />
+      android:text="@string/hello_journaly" />
 
   <!-- Add other UI components here -->
 
